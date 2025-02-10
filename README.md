@@ -1,2 +1,2 @@
 # EDMP
-![model](.\fig\model.png)
+![model](./fig/model.png)
